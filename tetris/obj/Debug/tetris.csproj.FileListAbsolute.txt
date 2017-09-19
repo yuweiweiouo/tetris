@@ -1,0 +1,55 @@
+c:\users\yuweiouo\documents\visual studio 2012\Projects\tetris\tetris\bin\Debug\tetris.exe.config
+c:\users\yuweiouo\documents\visual studio 2012\Projects\tetris\tetris\bin\Debug\tetris.exe
+c:\users\yuweiouo\documents\visual studio 2012\Projects\tetris\tetris\bin\Debug\tetris.pdb
+c:\users\yuweiouo\documents\visual studio 2012\Projects\tetris\tetris\obj\Debug\tetris.csprojResolveAssemblyReference.cache
+c:\users\yuweiouo\documents\visual studio 2012\Projects\tetris\tetris\obj\Debug\tetris.Form1.resources
+c:\users\yuweiouo\documents\visual studio 2012\Projects\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+c:\users\yuweiouo\documents\visual studio 2012\Projects\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.Cache
+c:\users\yuweiouo\documents\visual studio 2012\Projects\tetris\tetris\obj\Debug\tetris.exe
+c:\users\yuweiouo\documents\visual studio 2012\Projects\tetris\tetris\obj\Debug\tetris.pdb
+D:\VS\tetris\tetris\bin\Debug\tetris.exe.config
+D:\VS\tetris\tetris\obj\Debug\tetris.exe
+D:\VS\tetris\tetris\obj\Debug\tetris.pdb
+D:\VS\tetris\tetris\bin\Debug\tetris.exe
+D:\VS\tetris\tetris\bin\Debug\tetris.pdb
+D:\VS\tetris\tetris\obj\Debug\tetris.csprojResolveAssemblyReference.cache
+D:\VS\tetris\tetris\obj\Debug\tetris.Form1.resources
+D:\VS\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+D:\VS\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.Cache
+E:\程式練習\俄羅斯方塊\tetris\bin\Debug\tetris.exe.config
+E:\程式練習\俄羅斯方塊\tetris\obj\Debug\tetris.exe
+E:\程式練習\俄羅斯方塊\tetris\obj\Debug\tetris.pdb
+E:\程式練習\俄羅斯方塊\tetris\bin\Debug\tetris.exe
+E:\程式練習\俄羅斯方塊\tetris\bin\Debug\tetris.pdb
+E:\程式練習\俄羅斯方塊\tetris\obj\Debug\tetris.csprojResolveAssemblyReference.cache
+E:\程式練習\俄羅斯方塊\tetris\obj\Debug\tetris.Form1.resources
+E:\程式練習\俄羅斯方塊\tetris\obj\Debug\tetris.Properties.Resources.resources
+E:\程式練習\俄羅斯方塊\tetris\obj\Debug\tetris.csproj.GenerateResource.Cache
+D:\Project\Visual Studio\tetris\tetris\bin\Debug\tetris.exe.config
+D:\Project\Visual Studio\tetris\tetris\obj\Debug\tetris.exe
+D:\Project\Visual Studio\tetris\tetris\obj\Debug\tetris.pdb
+D:\Project\Visual Studio\tetris\tetris\bin\Debug\tetris.exe
+D:\Project\Visual Studio\tetris\tetris\bin\Debug\tetris.pdb
+D:\Project\Visual Studio\tetris\tetris\bin\Debug\IrisSkin4.dll
+D:\Project\Visual Studio\tetris\tetris\obj\Debug\tetris.csprojResolveAssemblyReference.cache
+D:\Project\Visual Studio\tetris\tetris\obj\Debug\tetris.Form1.resources
+D:\Project\Visual Studio\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+D:\Project\Visual Studio\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.Cache
+J:\VS\tetris\tetris\bin\Debug\tetris.exe.config
+J:\VS\tetris\tetris\obj\Debug\tetris.exe
+J:\VS\tetris\tetris\obj\Debug\tetris.pdb
+J:\VS\tetris\tetris\bin\Debug\tetris.exe
+J:\VS\tetris\tetris\bin\Debug\tetris.pdb
+J:\VS\tetris\tetris\obj\Debug\tetris.csprojResolveAssemblyReference.cache
+J:\VS\tetris\tetris\obj\Debug\tetris.Form1.resources
+J:\VS\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+J:\VS\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.Cache
+J:\程式\VS\tetris\tetris\bin\Debug\tetris.exe.config
+J:\程式\VS\tetris\tetris\obj\Debug\tetris.exe
+J:\程式\VS\tetris\tetris\obj\Debug\tetris.pdb
+J:\程式\VS\tetris\tetris\bin\Debug\tetris.exe
+J:\程式\VS\tetris\tetris\bin\Debug\tetris.pdb
+J:\程式\VS\tetris\tetris\obj\Debug\tetris.csprojResolveAssemblyReference.cache
+J:\程式\VS\tetris\tetris\obj\Debug\tetris.Form1.resources
+J:\程式\VS\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+J:\程式\VS\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.Cache
